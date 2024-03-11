@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: grey;
+}
+
+#snake {
+    background-color: green;
+    position: fixed;
+    width: 30px;
+    height: 30px;
+}
